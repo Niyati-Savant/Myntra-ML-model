@@ -3,7 +3,6 @@ import os
 from PIL import Image
 import numpy as np
 import pickle
-import tensorflow as tf
 import keras
 from sklearn.neighbors import NearestNeighbors
 from numpy.linalg import norm
